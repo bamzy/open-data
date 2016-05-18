@@ -29,6 +29,12 @@
 			@include('widgets.charts.cbarchart')
 			@endsection
 			@include('widgets.panel', array('header'=>true, 'as'=>'cchart4'))
+
+			@section ('cchart5_panel_title','My Chart')
+			@section ('cchart5_panel_body')
+				@include('widgets.charts.cbarchart')
+			@endsection
+			@include('widgets.panel', array('header'=>true, 'as'=>'cchart5'))
 		</div> 
 	</div>
 	
