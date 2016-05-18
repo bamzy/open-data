@@ -1,22 +1,18 @@
-# SB Admin v2.0 rewritten in Laravel
+# Environment Impact Estimator
 
-This project is a part of the famous Free Admin Bootstrap Theme SB Admin v2.0 to Laravel Theme.
+This project was initially submitted to open data challenge 2016. 
 
 Find out more [Free Laravel Themes at StartLaravel.com](http://www.startlaravel.com/)..
 
-## Installation
+## How to use
 
-1. Clone this project or Download that ZIP file
-2. Make sure you have bower, gulp and npm installed globally
-3. On the command prompt run the following commands
-- cd `project-directory`
-- Set permission 777 for storage
+1. Go to the Charts panel and enter you input to see the output
 - `composer install`
 - `npm install`
 - `bower install`
 - `gulp watch`
 - `php artisan cache:clear`
 
-### Automation tools
+### Powered by Chart.js and Laravel
 
-- [Gulp](http://gulpjs.com/)
+
