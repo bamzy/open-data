@@ -7,6 +7,7 @@ Find out more [Free Laravel Themes at StartLaravel.com](http://www.startlaravel.
 ## How to use
 
 1. Go to the Charts panel and enter you input to see the output
+2. In Search section You can insert strings you want to monitor their occurance how many times were mentioned 
 - `composer install`
 - `npm install`
 - `bower install`

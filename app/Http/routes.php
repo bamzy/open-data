@@ -76,3 +76,8 @@ Route::get('/documentation', function()
 {
 	return View::make('documentation');
 });
+
+Route::get('/map', function()
+{
+	return View::make('map');
+});
